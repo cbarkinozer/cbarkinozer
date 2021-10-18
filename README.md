@@ -1,4 +1,4 @@
-### Hi there 👋
+[![cbarkinozer's GitHub stats](https://github-readme-stats.vercel.app/api?username=cbarkinozer)](https://github.com/cbarkinozer/github-readme-stats)
 
 <!--
 **cbarkinozer/cbarkinozer** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
