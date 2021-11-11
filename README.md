@@ -8,9 +8,11 @@
 ![Jupyter Notebook](https://img.shields.io/badge/jupyter-%23FA0F00.svg?style=for-the-badge&logo=jupyter&logoColor=white)
 ![Visual Studio](https://img.shields.io/badge/Visual%20Studio-5C2D91.svg?style=for-the-badge&logo=visual-studio&logoColor=white)
 
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cbarkinozer&hide=javascript,html,css,scss)](https://github.com/anuraghazra/github-readme-stats)
-
+**Programming Category**<br/>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cbarkinozer&hide=javascript,html,css,scss,less&exclude_repo=DataScience)](https://github.com/anuraghazra/github-readme-stats)
+<br/>
+**Overall**<br/>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cbarkinozer&hide=javascript,html,css,scss,less,go&langs_count=9)](https://github.com/anuraghazra/github-readme-stats)
 
 
 <!--
