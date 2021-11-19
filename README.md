@@ -12,7 +12,7 @@
 
 ⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀**Overall** ⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀**Programming**<br/>
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cbarkinozer&hide=javascript,html,css,scss,less,go&langs_count=9)](https://github.com/anuraghazra/github-readme-stats)  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cbarkinozer&hide=javascript,html,css,scss,less,go&exclude_repo=DataScience)](https://github.com/anuraghazra/github-readme-stats)
-<br/> (Large outputs increase the line count for Jupyter Notebook)<br/> ⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀ ⠀⠀⠀ 
+<br/> (Large outputs increase the line count of Jupyter Notebook)<br/> ⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀ ⠀⠀⠀ 
 <br/>
 
 
