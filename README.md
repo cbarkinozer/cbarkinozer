@@ -11,11 +11,10 @@
 
 
 
-**Programming Category**<br/>
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cbarkinozer&hide=javascript,html,css,scss,less&exclude_repo=DataScience)](https://github.com/anuraghazra/github-readme-stats)
+**Programming** ⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀ **Overall**<br/>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cbarkinozer&hide=javascript,html,css,scss,less&exclude_repo=DataScience)](https://github.com/anuraghazra/github-readme-stats)   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cbarkinozer&hide=javascript,html,css,scss,less,go&langs_count=9)](https://github.com/anuraghazra/github-readme-stats)
 <br/>
-**Overall**<br/>
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cbarkinozer&hide=javascript,html,css,scss,less,go&langs_count=9)](https://github.com/anuraghazra/github-readme-stats)
+
 
 
 <!--
