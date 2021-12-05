@@ -1,4 +1,4 @@
-I am interested in backend developement with Java/Spring, and data science with Python.
+I am mainly studying backend developement with Java/Spring, and data science with Python.
 
 ![cbarkinozer's GitHub stats](https://github-readme-stats.vercel.app/api?username=cbarkinozer&show_icons=true&theme=tokyonight)
 
