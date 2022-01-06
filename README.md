@@ -1,4 +1,4 @@
-I am mainly studying backend developement with Java/Spring, and data science with Python.
+I am studying backend developement with Java/Spring, and data science with Python.
 
 ![cbarkinozer's GitHub stats](https://github-readme-stats.vercel.app/api?username=cbarkinozer&show_icons=true&theme=tokyonight)
 
@@ -8,9 +8,6 @@ I am mainly studying backend developement with Java/Spring, and data science wit
 
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![Jupyter Notebook](https://img.shields.io/badge/jupyter-%23FA0F00.svg?style=for-the-badge&logo=jupyter&logoColor=white)
-
-![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white)
-![Visual Studio](https://img.shields.io/badge/Visual%20Studio-5C2D91.svg?style=for-the-badge&logo=visual-studio&logoColor=white)
 
 
 ⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀**Overall** ⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀**Programming**<br/>
