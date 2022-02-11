@@ -9,6 +9,7 @@ I am studying backend developement with Java/Spring.
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![Jupyter Notebook](https://img.shields.io/badge/jupyter-%23FA0F00.svg?style=for-the-badge&logo=jupyter&logoColor=white)
 
+![](https://komarev.com/ghpvc/?username=cbarkinozer)
 
 ⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀**Overall** ⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀**Programming**<br/>
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cbarkinozer&hide=javascript,html,css,scss,less,go&langs_count=9)](https://github.com/anuraghazra/github-readme-stats)  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cbarkinozer&hide=javascript,html,css,scss,less,go,jupyter%20notebook,R)](https://github.com/anuraghazra/github-readme-stats)
