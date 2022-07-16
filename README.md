@@ -1,4 +1,4 @@
-I am studying backend developement with Java/Spring.
+I am working as a junior software engineer.
 
 ![cbarkinozer's GitHub stats](https://github-readme-stats.vercel.app/api?username=cbarkinozer&show_icons=true&theme=tokyonight)
 
