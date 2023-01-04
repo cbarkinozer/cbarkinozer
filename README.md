@@ -1,4 +1,4 @@
-I am working as a junior software engineer.
+I am working as a junior software engineer @Softtech on banking domain using the latest technologies such as Java and Spring Framework.
 
 ![cbarkinozer's GitHub stats](https://github-readme-stats.vercel.app/api?username=cbarkinozer&show_icons=true&theme=tokyonight)
 
