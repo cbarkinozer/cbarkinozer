@@ -13,7 +13,5 @@ I am working as a junior software engineer @Softtech on banking domain using the
 
 ![](https://komarev.com/ghpvc/?username=cbarkinozer&color=BAEEDA)
 
-⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀**Overall** ⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀**Programming**<br/>
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cbarkinozer&hide=javascript,html,css,scss,less,jupyter%20notebook&langs_count=9)](https://github.com/anuraghazra/github-readme-stats)  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cbarkinozer&hide=javascript,html,css,scss,less,jupyter%20notebook,R)](https://github.com/anuraghazra/github-readme-stats)
-<br/> (Large outputs increase the line count of Jupyter Notebook)<br/> ⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀ ⠀⠀⠀ 
-<br/>
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cbarkinozer&hide=dockerfile,asp.net,javascript,html,css,scss,less,jupyter%20notebook&langs_count=10)](https://github.com/anuraghazra/github-readme-stats)
