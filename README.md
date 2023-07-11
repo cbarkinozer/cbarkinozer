@@ -1,4 +1,4 @@
-I am working as a junior software engineer @Softtech on banking domain using the latest technologies such as Java and Spring Framework.  
+I am working as a junior software engineer @Softtech on the banking domain using the latest technologies such as Java with Spring Framework and machine learning with Python.  
 
 ![cbarkinozer's GitHub stats](https://github-readme-stats.vercel.app/api?username=cbarkinozer&show_icons=true&theme=tokyonight)
 
@@ -14,7 +14,7 @@ I am working as a junior software engineer @Softtech on banking domain using the
 ![Kotlin](https://img.shields.io/badge/Kotlin-0095D5?&style=for-the-badge&logo=kotlin&logoColor=white)
 
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-![Vuejs]([https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB](https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vuedotjs&logoColor=4FC08D))
+![Vuejs](https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vue.js&logoColor=4FC08D)
 
 ![](https://komarev.com/ghpvc/?username=cbarkinozer&color=BAEEDA)
 
