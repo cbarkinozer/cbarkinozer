@@ -1,4 +1,4 @@
-I am working as a junior software engineer @Softtech on the banking domain using the latest technologies such as Java with Spring Framework and machine learning with Python.  
+I am working as a software engineer @Softtech in the banking domain using the latest technologies, generative ai on LLMs. 
 
 ![cbarkinozer's GitHub stats](https://github-readme-stats.vercel.app/api?username=cbarkinozer&show_icons=true&theme=tokyonight)
 
