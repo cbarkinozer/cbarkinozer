@@ -1,4 +1,4 @@
-I am working as a AI Engineer @Softtech in the banking domain using generative ai on LLMs. 
+I am working as an AI Engineer / Applied AI Researcher @Softtech focusing on R&D with LLMs for software engineering.
 
 ![cbarkinozer's GitHub stats](https://github-readme-stats.vercel.app/api?username=cbarkinozer&show_icons=true&theme=tokyonight)
 
